@@ -1,0 +1,6 @@
+{
+  "name": "Windows 18 Ultra",
+  "description": "Official portal for Windows 18 Ultra by MR. ANSH RAJ — download verified releases, follow the interactive installation & bootable pendrive wizard, explore the Ultra Store, and preview the rainbow glass OS concept.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
